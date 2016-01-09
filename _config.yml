@@ -5,7 +5,7 @@ paginate: 5
 repo: starter
 github_org: maptime
 maptime:
-  chapter: Chapter name
+  chapter: Chapter namo
   twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
