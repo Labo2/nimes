@@ -5,7 +5,7 @@ paginate: 5
 repo: nimes
 github_org: maptime
 maptime:
-  chapter: MaptimeNîmes
+  chapter: MaptimeNîmeso
   twitter: #TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
