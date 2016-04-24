@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: /nimes
 permalink: pretty
 markdown: kramdown
 paginate: 5
